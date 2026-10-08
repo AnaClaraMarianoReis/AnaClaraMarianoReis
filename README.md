@@ -24,11 +24,11 @@ Gosto de entender não só **como** algo funciona, mas principalmente **por que*
 
 > "A ciência é uma forma de tentar não se enganar." — Richard Feynman
 
-    </td>
-    <td width="30%" align="center">
-      <img src="./assets/bruxa tech.gif" width="220" />
-    </td>
-  </tr>
+</td>
+<td width="30%" align="center">
+<img src="./assets/lua roxa.gif" width="220" />
+</td>
+</tr>
 </table>
 
 ![divisor](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,18,2&height=6)
@@ -51,12 +51,13 @@ Gosto de entender não só **como** algo funciona, mas principalmente **por que*
 
 📚 Livros · 🎬 Cinema · 🔬 Ciência · 🌌 Física e Universo · 🎨 Arte · 🎵 Música · 🧠 Biologia e fisiologia humana
 
-![divisor](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,2&height=6)
+![divisor](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,18,2&height=6)
 
 <div align="center">
 
-⭐ Se algum projeto for útil ou interessante para você, deixe uma estrela!
 
-![rodape](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20&height=100&section=footer)
 
+<div align="center">
+  ⭐ Se algum projeto for útil ou interessante para você, deixe uma estrela!
+  <img src="./assets/footer.svg" width="100%" />
 </div>
