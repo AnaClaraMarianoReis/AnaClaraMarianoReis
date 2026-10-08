@@ -35,7 +35,7 @@ Gosto de entender não só **como** algo funciona, mas principalmente **por que*
   <img src="./assets/bruxa tech.gif" width="100%" />
 </div>
 
-![divisor](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,18,2&height=6)
+![divisor](https://capsule-render.vercel.app/api?type=rect&color=0:f5f3ff,50:d8b4fe,100:93c5fd&height=4)
 
 ## 💻 Tecnologias
 
@@ -55,7 +55,7 @@ Gosto de entender não só **como** algo funciona, mas principalmente **por que*
 
 📚 Livros · 🎬 Cinema · 🔬 Ciência · 🌌 Física e Universo · 🎨 Arte · 🎵 Música · 🧠 Biologia e fisiologia humana
 
-![divisor](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,18,2&height=6)
+![divisor](https://capsule-render.vercel.app/api?type=rect&color=0:f5f3ff,50:d8b4fe,100:93c5fd&height=4)
 
 <div align="center">
 
