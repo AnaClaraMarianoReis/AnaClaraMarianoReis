@@ -26,12 +26,12 @@ Gosto de entender não só **como** algo funciona, mas principalmente **por que*
 
     </td>
     <td width="30%" align="center">
-      <img src="./assets/planeta.png" width="160" />
+      <img src="./assets/bruxa tech.gif" width="220" />
     </td>
   </tr>
 </table>
 
-![divisor](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,2&height=6)
+![divisor](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,18,2&height=6)
 
 ## 💻 Tecnologias
 
