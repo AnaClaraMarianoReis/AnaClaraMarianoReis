@@ -2,7 +2,9 @@
 
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20&height=220&section=header&text=Ana%20Clara&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%C2%B7%20IA%20%C2%B7%20Pesquisa&descAlignY=60&descSize=18)
+<div align="center">
+  <img src="./assets/banner.svg" width="100%" />
+</div>
 
 <a href="https://www.linkedin.com/in/ana-clara-mariano-reis/"><img src="https://img.shields.io/badge/-LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:anaclarareismar2016@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-0d1117?style=flat-square&logo=gmail&logoColor=white" /></a>
