@@ -1,123 +1,60 @@
-# Olá! Eu sou a Ana Clara 👩🏻‍💻
 
-🎓 Estudante de Ciência da Computação  
-🤖 Interessada em Inteligência Artificial, Tecnologia e Ciência  
-🔬 Explorando programação, pesquisa e desenvolvimento  
-📚 Sempre aprendendo algo novo
+
+<div align="center">
+
+![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20&height=220&section=header&text=Ana%20Clara&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%C2%B7%20IA%20%C2%B7%20Pesquisa&descAlignY=60&descSize=18)
+
+<a href="https://www.linkedin.com/in/ana-clara-mariano-reis/"><img src="https://img.shields.io/badge/-LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:anaclarareismar2016@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-0d1117?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://www.instagram.com/ana.studyscience/"><img src="https://img.shields.io/badge/-INSTAGRAM-0d1117?style=flat-square&logo=instagram&logoColor=white" /></a>
+
+</div>
+
+<table>
+  <tr>
+    <td width="70%" valign="top">
+
+### Olá! Eu sou a Ana Clara 👋
+
+**Estudante de Ciência da Computação** interessada em **IA, tecnologia e ciência**.
+
+Gosto de entender não só **como** algo funciona, mas principalmente **por que** funciona. Atualmente estou aprofundando programação, algoritmos e estruturas de dados, enquanto exploro IA, ciência de dados e pesquisa.
 
 > "A ciência é uma forma de tentar não se enganar." — Richard Feynman
 
----
+    </td>
+    <td width="30%" align="center">
+      <img src="./assets/planeta.png" width="160" />
+    </td>
+  </tr>
+</table>
 
-## 🧠 Sobre mim
+![divisor](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,2&height=6)
 
-Sou estudante de Ciência da Computação e estou construindo minha trajetória na área de tecnologia.
+## 💻 Tecnologias
 
-Atualmente, estou aprofundando meus conhecimentos em programação, algoritmos e fundamentos da computação, enquanto exploro áreas como Inteligência Artificial, ciência de dados e pesquisa.
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,linux&theme=dark" />
+</p>
 
-Gosto de entender não apenas **como** algo funciona, mas principalmente **por que** funciona.
-
-Este GitHub é um espaço para registrar minha evolução, projetos, estudos e experimentos ao longo dessa jornada.
-
----
-
-## 💻 Tecnologias e conhecimentos
-
-### Linguagens
-- C
-- Python
-- C++
-
-### Em aprendizado
-- Algoritmos e Estruturas de Dados
-- Inteligência Artificial
-- Ciência de Dados
-- Desenvolvimento de Software
-- Git e GitHub
-- Lógica de Programação
-
----
-
-## 🔬 Atualmente estudando
-
-```text
-Ciência da Computação
-        ↓
-Algoritmos
-        ↓
-Programação
-        ↓
-Estruturas de Dados
-        ↓
-Inteligência Artificial
-        ↓
-Pesquisa e desenvolvimento
-````
-
----
+**Em aprendizado:** Algoritmos e Estruturas de Dados · Inteligência Artificial · Ciência de Dados · Desenvolvimento de Software
 
 ## 🚀 Projetos
 
-Aqui você encontrará projetos desenvolvidos durante minha graduação e estudos independentes.
-
-### 📌 Estudos de Programação
-
-Exercícios e desafios desenvolvidos para praticar lógica de programação, algoritmos e linguagem C.
-
-### 🤖 Inteligência Artificial
-
-Projetos e experimentos relacionados à IA, aprendizado de máquina e aplicações computacionais.
-
-### 🔬 Pesquisa
-
-Projetos, estudos e experimentos relacionados à Ciência da Computação.
-
-> Este espaço está em constante construção. Assim como meu conhecimento.
-
----
-
-## 📊 Minha jornada
-
-```text
-Aprender → Praticar → Errar → Entender → Construir → Compartilhar
-```
-
-Estou usando este GitHub para documentar minha evolução como estudante e desenvolvedora.
-
-Cada projeto representa um pouco do que estou aprendendo pelo caminho.
-
----
+- 📌 **Estudos de Programação:** exercícios e desafios de lógica, algoritmos e C
+- 🤖 **Inteligência Artificial:** experimentos de aprendizado de máquina
+- 🔬 **Pesquisa:** estudos e experimentos de Ciência da Computação
 
 ## 🌌 Além do código
 
-Também me interesso por:
+📚 Livros · 🎬 Cinema · 🔬 Ciência · 🌌 Física e Universo · 🎨 Arte · 🎵 Música · 🧠 Biologia e fisiologia humana
 
-📚 Livros
-🎬 Cinema
-🔬 Ciência
-🌌 Física e Universo
-🎨 Arte
-🎵 Música
-🧠 Curiosidades e conhecimento
-🔬​ Biologia e fisiologia humana
+![divisor](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,2&height=6)
 
-Acredito que tecnologia não existe isolada do mundo — ela nasce da curiosidade humana de entender, criar e transformar.
+<div align="center">
 
----
+⭐ Se algum projeto for útil ou interessante para você, deixe uma estrela!
 
-## 📫 Onde me encontrar
+![rodape](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20&height=100&section=footer)
 
-📧 **E-mail:** [anaclarareismar2016@gmail.com](mailto:anaclarareismar2016@gmail.com)
-
-💼 **LinkedIn:** [ana-clara-mariano-reis](https://www.linkedin.com/in/ana-clara-mariano-reis/)
-
-📸 **Instagram pessoal:** [@anaclaramarianoreis](https://www.instagram.com/anaclaramarianoreis/)
-
-📸 **Instagram profissional:** [@ana.studyscience](https://www.instagram.com/ana.studyscience/)
-
----
-
-⭐ Se algum dos meus projetos for útil ou interessante para você, fique à vontade para deixar uma estrela!
-
-**Obrigada pela visita! 👩🏻‍💻**
-
+</div>
