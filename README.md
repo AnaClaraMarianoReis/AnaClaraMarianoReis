@@ -31,6 +31,10 @@ Gosto de entender não só **como** algo funciona, mas principalmente **por que*
 </tr>
 </table>
 
+<div align="center">
+  <img src="./assets/bruxa tech.gif" width="100%" />
+</div>
+
 ![divisor](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,18,2&height=6)
 
 ## 💻 Tecnologias
